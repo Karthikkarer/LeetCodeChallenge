@@ -25,4 +25,12 @@
 | ------- |
 | [0027-remove-element](https://github.com/Karthikkarer/LeetCodeChallenge/tree/master/0027-remove-element) |
 | [1768-merge-strings-alternately](https://github.com/Karthikkarer/LeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Karthikkarer/LeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Karthikkarer/LeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
