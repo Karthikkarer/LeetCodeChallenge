@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Karthikkarer/LeetCodeChallenge/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Karthikkarer/LeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Karthikkarer/LeetCodeChallenge/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Karthikkarer/LeetCodeChallenge/tree/master/0035-search-insert-position) |
 ## Hash Table
@@ -24,6 +25,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Karthikkarer/LeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Karthikkarer/LeetCodeChallenge/tree/master/0027-remove-element) |
 | [1768-merge-strings-alternately](https://github.com/Karthikkarer/LeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
 ## Linked List
