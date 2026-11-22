@@ -46,6 +46,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Karthikkarer/LeetCodeChallenge/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Karthikkarer/LeetCodeChallenge/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Karthikkarer/LeetCodeChallenge/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Karthikkarer/LeetCodeChallenge/tree/master/0069-sqrtx) |
