@@ -19,6 +19,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Karthikkarer/LeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Karthikkarer/LeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Karthikkarer/LeetCodeChallenge/tree/master/0058-length-of-last-word) |
 | [1768-merge-strings-alternately](https://github.com/Karthikkarer/LeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
 |  |
